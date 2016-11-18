@@ -57,6 +57,7 @@
 		63DB29441D67A34D00C97A60 /* artik.properties */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = artik.properties; sourceTree = "<group>"; };
 		63DB29481D67AAC600C97A60 /* ArtikCloudTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ArtikCloudTests.h; sourceTree = "<group>"; };
 		77193F8BCAA1FF48A945D144 /* libPods-ArtikCloudClient.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ArtikCloudClient.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		99F54CD11DDF7A2400C34110 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = SOURCE_ROOT; };
 		B4ED3C808D697B42EE825B13 /* Pods-ArtikCloudClient.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ArtikCloudClient.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ArtikCloudClient/Pods-ArtikCloudClient.debug.xcconfig"; sourceTree = "<group>"; };
 		DBBB7486910BA46D9A3FAC06 /* Pods-ArtikCloudClientTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ArtikCloudClientTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ArtikCloudClientTests/Pods-ArtikCloudClientTests.debug.xcconfig"; sourceTree = "<group>"; };
 		FE55AFBBB5A0F2FF64290CFD /* Pods-ArtikCloudClientTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ArtikCloudClientTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ArtikCloudClientTests/Pods-ArtikCloudClientTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -140,6 +141,7 @@
 		63B9D1D81CAAE9EF0033D3D8 /* ArtikCloudClientTests */ = {
 			isa = PBXGroup;
 			children = (
+				99F54CD11DDF7A2400C34110 /* Podfile */,
 				63B9D1D91CAAE9EF0033D3D8 /* UsersApiTests.m */,
 				63B9D1DB1CAAE9EF0033D3D8 /* Info.plist */,
 				630D07B21CAC85B000A9223B /* MessagesApiTests.m */,
